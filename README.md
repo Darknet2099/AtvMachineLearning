@@ -1,9 +1,6 @@
  # AtvMachineLearning 
-Claro, aqui está uma versão mais coesa da frase:
+Para esta atividade, selecionei a Database 'Atmospheric and Oceanic Dynamics'(*), que compila e formata dados climáticos de várias fontes verificadas para analisar o nível global do mar. Este dataset foi escolhido devido à sua abundância de dados e também pelo fato de que a elevação do nível do oceano se torna cada vez mais preocupante.
 
-"Para esta atividade, selecionei a base de dados 'Atmospheric and Oceanic Dynamics', que compila e formata dados climáticos de várias fontes verificadas para analisar o nível global do mar. Este dataset foi escolhido devido à sua abundância de dados e também pelo fato de que a elevação do nível do oceano se torna cada vez mais preocupante."
-
-Espero que isso ajude! Se precisar de mais alguma coisa, estou à disposição.
 *https://www.kaggle.com/datasets/muhammadzakria2001/atmospheric-and-oceanic-dynamics/data 
 ## Tipos de Dados
 - Date (Data) datetime64[ns]   
@@ -22,10 +19,12 @@ Para essa atividade, a técnica de Clustering foi escolhida devido à sua capaci
 # Objetivos possíveis de análise
 ## Objetivo Principal
 - Identificação de Padrões Temporais: Agrupar períodos de tempo com características climáticas semelhantes para identificar padrões recorrentes.
+Neste objetivo, faremos a utilização da técnica de Clustering para agrupar dados climáticos em períodos de tempo que apresentam características semelhantes. Isso Implica que, ao analisar a base de dados "Atmospheric and Oceanic Dynamics", você buscará identificar intervalos de tempo que compartilham padrões climáticos comuns, como aumento do nível do mar, anomalias de temperatura, concentrações de gases de efeito estufa, e extensão do gelo marinho. Ao agrupar esses períodos, Conseguimos: Detectar tendências climáticas, Entender ciclos climáticos e prever padrões futuros.
 ## Objetivos Secundários
 - Anomalias Climáticas: Detectar anomalias climáticas que se desviam significativamente dos padrões normais, o que pode indicar eventos extremos ou mudanças climáticas acentuadas.
 - Impacto das Emissões de Gases de Efeito Estufa: Analisar como as concentrações e emissões de gases de efeito estufa (CO2, N2O, CH4) influenciam a elevação do nível do mar e as anomalias de temperatura.
 - Compreensão da Extensão do Gelo Marinho: Investigar como a extensão do gelo marinho no Ártico e na Antártica se correlaciona com outras variáveis climáticas.
+
 
 
 
