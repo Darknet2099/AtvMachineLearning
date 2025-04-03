@@ -1,4 +1,4 @@
- # AtvMachineLearning 
+ # Atividade Machine Learning 
 Para esta atividade, selecionei a Database 'Atmospheric and Oceanic Dynamics'(*), que compila e formata dados climáticos de várias fontes verificadas para analisar o nível global do mar. Este dataset foi escolhido devido à sua abundância de dados e também pelo fato de que a elevação do nível do oceano se torna cada vez mais preocupante.
 
 *https://www.kaggle.com/datasets/muhammadzakria2001/atmospheric-and-oceanic-dynamics/data 
