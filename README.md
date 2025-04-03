@@ -1,6 +1,9 @@
  # AtvMachineLearning 
-Para esta atividade, foi selecionado a database : Atmospheric and Oceanic Dynamics*, que compila e formata dados relacionados ao clima de várias fontes verificadas para Analisar o nível Global do mar. Esse dataset foi selecionado devido á sua abundância de dados, e também devido ao fato de que a conscientiza
+Claro, aqui está uma versão mais coesa da frase:
 
+"Para esta atividade, selecionei a base de dados 'Atmospheric and Oceanic Dynamics', que compila e formata dados climáticos de várias fontes verificadas para analisar o nível global do mar. Este dataset foi escolhido devido à sua abundância de dados e também pelo fato de que a elevação do nível do oceano se torna cada vez mais preocupante."
+
+Espero que isso ajude! Se precisar de mais alguma coisa, estou à disposição.
 *https://www.kaggle.com/datasets/muhammadzakria2001/atmospheric-and-oceanic-dynamics/data 
 ## Tipos de Dados
 - Date (Data) datetime64[ns]   
@@ -14,13 +17,15 @@ Para esta atividade, foi selecionado a database : Atmospheric and Oceanic Dynami
 - Global Sea surface temp. anomaly (relative to 1961-90 average) (Anomalia da temperatura média da superfície do mar global (em relação à média de 1961-90)) float 64 
 - Artic Sea Ice Extent Avg (Extensão Média do Gelo Marinho do Ártico) float 64  
 - Antartica Sea Ice Extent Avg (Extensão Média do Gelo Marinho da Antártica) float 64 
-- Nino Index 1.2 float 64  
-- Nino Index 3 float 64 
-- dtype: object float 64 
 ## Proposta de técnica de Machine Learning
-Utilizando da técnica de Machine Learning "Clustering", 
-## Objetivos possíveis de análise
+Para essa atividade, a técnica de Clustering foi escolhida devido à sua capacidade de agrupar dados semelhantes sem a necessidade de rótulos prévios. Isso é Bastante útil para identificar padrões e grupos dentro dos dados climáticos, que podem não ser imediatamente óbvios. O Clustering permite segmentar períodos de tempo com características climáticas semelhantes, ajudando a entender melhor as tendências e anomalias no comportamento do clima global.
+# Objetivos possíveis de análise
+## Objetivo Principal
+- Identificação de Padrões Temporais: Agrupar períodos de tempo com características climáticas semelhantes para identificar padrões recorrentes.
+## Objetivos Secundários
+- Anomalias Climáticas: Detectar anomalias climáticas que se desviam significativamente dos padrões normais, o que pode indicar eventos extremos ou mudanças climáticas acentuadas.
+- Impacto das Emissões de Gases de Efeito Estufa: Analisar como as concentrações e emissões de gases de efeito estufa (CO2, N2O, CH4) influenciam a elevação do nível do mar e as anomalias de temperatura.
+- Compreensão da Extensão do Gelo Marinho: Investigar como a extensão do gelo marinho no Ártico e na Antártica se correlaciona com outras variáveis climáticas.
 
-Usando os dados da I.A, é possivel Traçar uma linha do tempo levando em conta a poluição mundial, e observar uma escala de países que mais Jogam gás carbônico na atmo 
 
 
